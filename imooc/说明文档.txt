@@ -1,0 +1,4 @@
+文件内代码为：
+慕课网 《Python开发简单爬虫》课程代码,包含test的实例测试代码及实战演练代码
+讲师：疯狂的蚂蚁crazyant
+环境：Eclipse PyDev
